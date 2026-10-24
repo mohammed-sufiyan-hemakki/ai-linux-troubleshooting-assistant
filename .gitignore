@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local backups and editor leftovers
+*.backup
+*.save
+*.save.*
+app_backup.py
+app.pyap
+app.pyapp.py
