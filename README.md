@@ -60,3 +60,8 @@ The Ollama API URL in `app.py` may need to be adjusted for your own machine.
 - Add automated tests.
 - Improve diagnostic accuracy and error handling.
 - Add support for more common Linux troubleshooting scenarios.
+## Project Screenshot
+
+The assistant provides diagnostic guidance for common Linux troubleshooting scenarios.
+
+![AI Linux Troubleshooting Assistant - Nginx diagnostic example](screenshots/nginx-troubleshooting.png)
